@@ -5,6 +5,10 @@ to the console (the panel on the right)
 */
 
 console.log("Hello world");
+console.log("bananas");
+console.log('35');
+console.log("apples ")("bananas")
+
 
 
 /*  
