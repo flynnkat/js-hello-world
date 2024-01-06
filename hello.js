@@ -4,11 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello world");
-console.log("bananas");
-console.log("35");
-console.log("apples ")("bananas");
-console.log(" 'nevermore' ")
+console.log("Hello, World");
+
+
+
+
 
 /*  
 Next, PLAY! 
